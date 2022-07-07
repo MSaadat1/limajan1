@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mezhgan Saadat
 - 👀 I’m interested in making responsive website
-- 🌱 I’m currently learning to build project from scrach
+- 🌱 I’m currently learning to build project from scratch
 - 💞️ I’m looking to collaborate on having more than 50 resposive projects
 - 📫 How to reach me mezhgan.saadat@gmail.com
 
